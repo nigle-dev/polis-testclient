@@ -1,0 +1,33 @@
+{
+	"base_url": "https://particiapi-leaf.smoose.cloud", 
+	"out_dir": "build",
+
+	"links": {
+	    "en": [
+		{
+		    "caption": "Home",
+		    "title": "Homepage",
+		    "url": "https://www.example.com/"
+		},
+		{
+		    "caption": "About",
+		    "title": "About Us",
+		    "url": "https://www.example.com/about/"
+		}
+	    ],
+	    "de-DE": [
+		{
+		    "caption": "Start",
+		    "title": "Startseite",
+		    "url": "https://www.example.com/de-DE/"
+		},
+		{
+		    "caption": "Über",
+		    "title": "Über Uns",
+		    "url": "https://www.example.com/de-DE/about/"
+		}
+	    ]
+	},
+	"assets_dir": "assets",
+	"stylesheet": "style/branding.css"
+}
