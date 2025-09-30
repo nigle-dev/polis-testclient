@@ -1,5 +1,9 @@
 {
 	"base_url": "https://praatmee-particiapi.apprunner.nl", 
-	"out_dir": "build"
+	"out_dir": "build",
+	"assets_dir": "assets",
+        "includes": {
+            "logo": "logo.html"
+	}
 
 }
