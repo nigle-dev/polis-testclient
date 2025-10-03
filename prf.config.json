@@ -4,6 +4,25 @@
 	"assets_dir": "assets",
 	"includes": {
             "logo": "logo.html"
+	},
+	"links": {
+	    "en": [
+	      {
+		"title": "PolisNL Project",
+		"caption": "PolisNL Project",
+		"url": "https://polisnl.org"
+	      },
+	      {
+		"title": "PolisNL Explainer",
+		"caption": "PolisNL Explainer",
+		"url": "https://explainer.polisnl.org"
+	      },
+	      {
+		"title": "PolisNL Software",
+		"caption": "Particiapp Project",
+		"url": "https://gitlab.com/particiapp/"
+	      }
+	    ]
 	}
 
 }
