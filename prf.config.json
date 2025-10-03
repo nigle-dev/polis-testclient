@@ -3,6 +3,7 @@
 	"out_dir": "build",
 	"assets_dir": "assets",
 	"includes": {
+	    "favicon": "favicon.html",
             "logo": "logo.html"
 	},
 	"links": {
