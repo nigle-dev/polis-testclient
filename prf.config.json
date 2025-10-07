@@ -3,7 +3,23 @@
 	"out_dir": "build",
 	"assets_dir": "assets",
         "includes": {
+			"favicon": "favicon.html",
             "logo": "logo.html"
+	},
+	"languages": ["nl-NL", "en"],
+    "links": {
+        "nl-NL": [
+            {
+                "caption": "Stemmen uit de Samenleving",
+                "title": "Stemmen uit de Samenleving",
+                "url": "https://stemmenuitdesamenleving.nl/"
+            },
+            {
+                "caption": "Veel Gestelde Vragen",
+                "title": "Veel Gestelde Vragen",
+                "url": "https://stemmenuitdesamenleving.nl/faq"
+            }
+        ]
 	}
 
 }
