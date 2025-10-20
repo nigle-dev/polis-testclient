@@ -1,2 +1,2 @@
 # polis-frontendclient
-publicspaces
+publicspaces v2
